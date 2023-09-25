@@ -17,6 +17,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
+Projeto para treinar a cobertura de testes com mocking.
+
+Cobertura:
+![img_1.png](.github%2Fimg_1.png)
+
+Teste rodando:
+![img.png](.github%2Fimg.png)
+
 Baseado no vide do canal [Erick Wendel](https://www.youtube.com/watch?v=iDaBo7ge604)
 
 Repositório original [aqui](https://github.com/ErickWendel/mocking-with-node-test-runner-template)
