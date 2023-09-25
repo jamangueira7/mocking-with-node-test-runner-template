@@ -1,20 +1,43 @@
-# mocking-with-node-test-runner-template
+<p align="center">
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+  <a href="#-como-rodar">Como rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;
+  </p>
+<br>
 
-Initial template for my youtube video on [unit testing services (databases, files, web APIs, etc) - pt-br](https://bit.ly/testes-em-servicos-video).
 
-First of all, leave a star in this repo ⭐️
+# Como Fazer Testes unitários em serviços -
 
-## Running
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Make sure you're using Node.js v20+ and run
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Yarn](https://yarnpkg.com/)
+- [Npm](https://www.npmjs.com/)
+- [NodeJS](https://nodejs.org/en/) - v19.7.0
 
-```sh
-npm ci --silent
-npm start
-```
+## 💻 Projeto
 
-## Thanks!
+Baseado no vide do canal [Erick Wendel](https://www.youtube.com/watch?v=iDaBo7ge604)
 
-Consider mentioning me on [Twitter](https://twitter.com/erickwendel_/), [linkedin](https://linkedin.com/in/erickwendel/), or [instagram](https://www.instagram.com/erickwendel_/) about the experiments and ideas this repo may have brought to you.
+Repositório original [aqui](https://github.com/ErickWendel/mocking-with-node-test-runner-template)
 
-Enjoy!
+## 🚀 Como Rodar
+
+- Clone o projeto.
+- Entre na raiz do projeto.
+- Execute `npm ci --silent`.
+- Execute `npm start`
+- Execute `npm run test` ou `npm run test:cov` para rodar o test  
+  
+## 🤔 Como contribuir
+
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
+
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT.
