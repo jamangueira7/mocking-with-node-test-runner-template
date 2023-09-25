@@ -27,7 +27,7 @@ Repositório original [aqui](https://github.com/ErickWendel/mocking-with-node-te
 - Entre na raiz do projeto.
 - Execute `npm ci --silent`.
 - Execute `npm start`
-- Execute `npm run test` ou `npm run test:cov` para rodar o test  
+- Execute `npm run test` ou `npm run test:watch` para rodar o test  
   
 ## 🤔 Como contribuir
 
