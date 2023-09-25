@@ -7,7 +7,7 @@
     "start": "node src/index.js",
     "test": "node --test test/",
     "test:watch": "node --watch --test test/",
-    "test:cov": "npx c8 --all node --test test/"
+    "test:cov": "npx c8 --all --exclude src/index.js node --test test/"
   },
   "keywords": [],
   "author": "",
